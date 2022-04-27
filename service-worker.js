@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/penguin-game/precache-manifest.c92840df581a9f0c94d50fe12b21582c.js"
+  "/penguin-game/precache-manifest.8e94c5f2dca1b900fb10d674277537e1.js"
 );
 
 workbox.clientsClaim();
