@@ -8,9 +8,9 @@
   "runtime~main.js.map": "/penguin-game/static/js/runtime~main.68bc5522.js.map",
   "static/media/never_enough_edit.wav": "/penguin-game/static/media/never_enough_edit.28e1b3ec.wav",
   "static/media/131711__oldedgar__aaron-helm.wav": "/penguin-game/static/media/131711__oldedgar__aaron-helm.ce0cf28e.wav",
-  "static/media/index.css": "/penguin-game/static/media/skipper.048832a9.png",
+  "static/media/index.css": "/penguin-game/static/media/up_arrow.9c5ea608.png",
   "static/css/main.783ca8df.chunk.css.map": "/penguin-game/static/css/main.783ca8df.chunk.css.map",
   "index.html": "/penguin-game/index.html",
-  "precache-manifest.474b5845d0bc09f8d9d625fd716413f4.js": "/penguin-game/precache-manifest.474b5845d0bc09f8d9d625fd716413f4.js",
+  "precache-manifest.c92840df581a9f0c94d50fe12b21582c.js": "/penguin-game/precache-manifest.c92840df581a9f0c94d50fe12b21582c.js",
   "service-worker.js": "/penguin-game/service-worker.js"
 }
