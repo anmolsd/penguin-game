@@ -24,20 +24,20 @@ self.__precacheManifest = [
     "url": "/penguin-game/static/media/131711__oldedgar__aaron-helm.ce0cf28e.wav"
   },
   {
-    "revision": "2cbb330297faf3110da79392cc477f0d",
-    "url": "/penguin-game/static/media/play_icon.2cbb3302.png"
-  },
-  {
     "revision": "63ac63f90e8bdae269c779bdd527c526",
     "url": "/penguin-game/static/media/pause.63ac63f9.png"
   },
   {
-    "revision": "9c5ea608126fbbbf305f519c1b27abe4",
-    "url": "/penguin-game/static/media/up_arrow.9c5ea608.png"
+    "revision": "2cbb330297faf3110da79392cc477f0d",
+    "url": "/penguin-game/static/media/play_icon.2cbb3302.png"
   },
   {
     "revision": "048832a90f81b898addb4d8f188e4b51",
     "url": "/penguin-game/static/media/skipper.048832a9.png"
+  },
+  {
+    "revision": "9c5ea608126fbbbf305f519c1b27abe4",
+    "url": "/penguin-game/static/media/up_arrow.9c5ea608.png"
   },
   {
     "revision": "8ee92d2226dfaaa6ccdf579d9a55c91c",
