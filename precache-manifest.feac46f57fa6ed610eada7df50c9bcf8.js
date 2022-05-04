@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/penguin-game/static/media/pause.63ac63f9.png"
   },
   {
-    "revision": "9c5ea608126fbbbf305f519c1b27abe4",
-    "url": "/penguin-game/static/media/up_arrow.9c5ea608.png"
-  },
-  {
     "revision": "048832a90f81b898addb4d8f188e4b51",
     "url": "/penguin-game/static/media/skipper.048832a9.png"
+  },
+  {
+    "revision": "9c5ea608126fbbbf305f519c1b27abe4",
+    "url": "/penguin-game/static/media/up_arrow.9c5ea608.png"
   },
   {
     "revision": "81c03cdd0cb2deb3458b2c43ff941375",
